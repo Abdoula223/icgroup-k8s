@@ -1,0 +1,7 @@
+resources:
+  - namespace.yaml
+  - odoo/
+  - postgres/
+  - pgadmin/
+  - site-web/
+
