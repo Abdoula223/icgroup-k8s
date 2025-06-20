@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
       - name: site-web
-        image: image: abdoul223/ic-webapp:1.0
+        image: abdoul223/ic-webapp:1.0
         ports:
         - containerPort: 5000
         env:
