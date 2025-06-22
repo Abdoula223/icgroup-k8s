@@ -27,6 +27,8 @@ spec:
               value: postgres
             - name: PORT
               value: "5432"
+            - name: DB_NAME
+              value: odoo
             - name: PGUSER
               valueFrom:
                 secretKeyRef:

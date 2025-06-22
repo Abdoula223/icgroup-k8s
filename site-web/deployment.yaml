@@ -1,25 +1,12 @@
-apiVersion: apps/v1
-kind: Deployment
-metadata:
-  name: site-web
-  namespace: icgroup
-spec:
-  replicas: 1
-  selector:
-    matchLabels:
-      app: site-web
-  template:
-    metadata:
-      labels:
-        app: site-web
-    spec:
-      containers:
-      - name: site-web
-        image: abdoul223/ic-webapp:1.0
-        ports:
-        - containerPort: 5000
-        env:
-        - name: ODOO_URL
-          value: http://odoo:8069
-        - name: PGADMIN_URL
-          value: http://pgadmin:80
+containers:
+  - name: site-web
+    image: abdoul223/ic-webapp:1.0
+    ports:
+      - containerPort: 5000
+    env:
+      - name: ODOO_URL
+        value: http://odoo:8069
+      - name: PGADMIN_URL
+        value: http://pgadmin:80
+    command: ["python3"]
+    args: ["app.py", "--host=0.0.0.0", "--port=5000"]
