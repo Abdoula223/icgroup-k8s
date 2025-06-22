@@ -1,0 +1,57 @@
+PROFIL PROFESSIONNEL
+Stagiaire en informatique avec plus de 3 ans d’expérience en assistance technique et gestion des infrastructures IT. Actuellement en Master 2 Virtualisation & Cloud Computing, je cherche un stage de fin d’études pour mettre mes compétences au service d’une équipe dynamique. Maîtrise des environnements Windows, support utilisateurs (niveau 1 et 2), déploiement de logiciels, maintenance préventive et curative, et gestion de stocks techniques. Rigueur, réactivité, esprit d’analyse et pédagogie sont mes atouts majeurs.
+
+COMPÉTENCES CLÉS
+Systèmes : Windows Server, Windows 10/11, Linux
+
+Bureautique : Word, Excel, PowerPoint, Outlook
+
+Maintenance : Détection de pannes, installation, mise à jour, entretien matériel
+
+Support utilisateurs : Assistance niveau 1 & 2, gestion des incidents, satisfaction client
+
+Réseaux : LAN, câblage, création comptes, supervision
+
+Soft skills : Autonomie, pédagogie, logique, résistance à la pression
+
+Langues : Français (courant), Anglais (lu/écrit – documentation technique)
+
+Certifications : Cisco CCNA 1 & 2, Cisco CyberOps Associate, AWS Foundation
+
+EXPÉRIENCES PROFESSIONNELLES
+Administrateur Systèmes et Réseaux Neurone Digital – Dakar | Avril 2023 – Aujourd’hui (CDI)
+
+Intervention technique pour résolution des pannes matérielles et logicielles
+
+Installation, déploiement et mise à jour des logiciels
+
+Supervision des réseaux et serveurs (Windows/Linux)
+
+Entretien du parc informatique et suivi des consommables
+
+Application des standards qualité et participation aux audits IT
+
+Veille technologique permanente
+
+Technicien Réseaux et Systèmes Black Technologie Service – Dakar | Fév. 2022 – Mars 2023 (CDD)
+
+Installation, entretien du matériel informatique (postes, imprimantes)
+
+Support bureautique complet auprès des utilisateurs
+
+Mise en place de configurations réseau LAN/WAN
+
+Création et gestion des comptes utilisateurs
+
+Technicien Fibre Optique – Niv. 3 Premium Company (Sous-traitant Sonatel) – Dakar | Août – Oct. 2022 (CDD)
+
+Installation des connexions FTTH, test de continuité
+
+Maintenance curative et documentation des interventions
+
+FORMATION
+Master 2 – Virtualisation & Cloud Computing (en cours) Institut Supérieur d’Informatique, Dakar | 2023 – 2025
+
+Licence professionnelle – Réseaux et Télécommunications ISI Dakar | 2021 – 2023
+
+Baccalauréat S2 – Sciences Techniques Lycée [Nom], Dakar | 2019
