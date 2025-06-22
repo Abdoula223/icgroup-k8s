@@ -9,6 +9,6 @@ spec:
     app: site-web
   ports:
     - port: 80
-      targetPort: 5000
+      targetPort: 8080
       nodePort: 30081
 
