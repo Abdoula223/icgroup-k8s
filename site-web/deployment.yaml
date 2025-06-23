@@ -17,9 +17,10 @@ spec:
         - name: site-web
           image: abdoul223/ic-webapp:1.0
           ports:
-            - containerPort: 8080   # ← DOIT correspondre au port réel de Flask
+            - containerPort: 8080
           env:
             - name: ODOO_URL
-              value: http://odoo:8069
+              value: http://192.168.49.2:30069
             - name: PGADMIN_URL
-              value: http://pgadmin:80
+              value: http://192.168.49.2:30080
+
