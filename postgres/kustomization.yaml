@@ -3,3 +3,4 @@ resources:
 - service.yaml
 - pvc.yaml
 - secret.yaml
+- init-db-configmap.yaml
