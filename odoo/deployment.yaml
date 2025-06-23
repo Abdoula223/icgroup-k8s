@@ -39,6 +39,10 @@ spec:
                 secretKeyRef:
                   name: odoo-secret
                   key: password
-          # ❌ volumeMounts supprimé temporairement
-      # ❌ volumes supprimé temporairement
-
+          volumeMounts:
+            - name: odoo-data
+              mountPath: /var/lib/odoo
+      volumes:
+        - name: odoo-data
+          persistentVolumeClaim:
+            claimName: odoo-pvc
